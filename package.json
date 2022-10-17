@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hdebesay/package.json.git"
+  },
+  "author": "Henok Debesay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdebesay/package.json/issues"
+  },
+  "homepage": "https://github.com/hdebesay/package.json#readme"
+}
